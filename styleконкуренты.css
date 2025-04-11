@@ -1,0 +1,55 @@
+body {
+    background-color: darkseagreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    color: cornsilk;
+    font-weight: 300;
+     
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px; 
+    font-weight: 900;
+    color: cornsilk;
+    text-align:center;}
+    h2 {
+        font-family: 'Roboto', sans-serif;
+        color: cornsilk;
+        font-size: 35px; 
+        font-weight: 400;
+        width: 80%;
+    }
+    h3 {
+        font-family: 'Roboto', sans-serif;
+        color: cornsilk;
+        font-size: 35px; 
+        font-weight: 400;
+        width: 80%;
+        margin-top: 340pt;
+
+    }
+    h4 {font-family: 'Roboto', sans-serif;
+        color: cornsilk;
+        font-size: 35px; 
+        font-weight: 400;
+        width: 80%;
+        margin-top: 420pt;
+    }
+    h5 {
+        font-family: 'Roboto', sans-serif;
+        color: cornsilk;
+        font-size: 35px; 
+        font-weight: 400;
+        width: 80%;
+        margin-top: 410pt;
+    }
+    h6 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 80px; 
+        font-weight: 900;
+        color: cornsilk;
+        text-align:center;
+    margin-top: 450pt;}
+    
+    

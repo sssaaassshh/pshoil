@@ -1,0 +1,44 @@
+button {
+    padding: 9px 20px;
+    font-size: 1.5em;
+    color:black;
+    background-color: rgb(99, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor:grab;
+    margin-left: 550pt;
+    margin-top: 17pt;
+
+}
+body {
+    background-color: darkseagreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    color: cornsilk;
+    font-weight: 400;
+    
+     
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    color: cornsilk;
+    font-weight: 300;
+    text-align:center;
+}
+ul {
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    cursor: help;
+    margin-top: 250pt;
+
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px; 
+    font-weight: 900;
+    color: cornsilk;
+    text-align:center;
+}

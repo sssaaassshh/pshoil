@@ -1,0 +1,39 @@
+body {
+    background-color: darkseagreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    color: cornsilk;
+    font-weight: 300;
+     
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px; 
+    font-weight: 900;
+    color: cornsilk;
+    text-align:center;}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: cornsilk;
+    font-size: 30px; 
+    font-weight: 400;
+    width: 80%;
+        text-align: center;
+        margin-left: 10%;
+       
+    }
+   
+      h3 { font-family: 'Roboto', sans-serif;
+        color: cornsilk;
+        font-size: 30px; 
+        font-weight: 400;
+        width: 60%;
+        text-align: center;
+        margin-top: 30%;
+        margin-left: 20%;
+
+      }
+    
+            
+

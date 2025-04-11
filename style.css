@@ -1,0 +1,40 @@
+
+body {
+    background-color: darkseagreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px; 
+    color: cornsilk;
+    font-weight: 300;
+     
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px; 
+    color: cornsilk;
+    font-weight: 900;
+    text-align:center;
+}
+h2 {
+     font-family: 'Roboto', sans-serif;
+    color: cornsilk;
+    font-size: 120%;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+
+
+p{
+    text-align:center ;
+}
+
+
+
+   
+
+       
+
+
